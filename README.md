@@ -6,6 +6,15 @@ It covers the whole pipeline: script, ElevenLabs voices, a three.js scene render
 
 Characters, set and story are left to you (or to Claude).
 
+## What you get
+
+- A ~50 s mp4, 1080x1920, 30 fps, ready for Reels, Shorts and TikTok
+- Two distinct ElevenLabs voices with timed subtitles
+- Filmic look: HDR render, depth of field, bloom, film grain
+- Camera that cuts on the dialogue, with a shot guide for when to use what
+- Automated QA (`check.mjs`) for jitter, floating characters and clipping before the full render
+- Gentle on your PC: one GPU browser at low priority, resumable chunked rendering
+
 ## Install
 
 Copy the skill folder into your Claude Code skills directory:
