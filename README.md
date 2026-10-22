@@ -11,7 +11,7 @@ Characters, set and story are left to you (or to Claude).
 Copy the skill folder into your Claude Code skills directory:
 
 ```bash
-git clone https://github.com/<your-username>/dev-claude-reel.git
+git clone https://github.com/NiklasMVP/dev-claude-reel.git
 cp -r dev-claude-reel/dev-claude-reel ~/.claude/skills/
 ```
 
